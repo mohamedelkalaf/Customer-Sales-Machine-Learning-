@@ -15,7 +15,7 @@ The prediction is based on:
 ## 📂 Dataset
 - **Records:** 80 entries  
 - **Features:** 26 columns  
-- **Source:** [Kaggle Dataset  
+- **Source:** [Kaggle Dataset]  
 
 Key Columns:
 - `Product ID, Category, Subcategory`
@@ -37,10 +37,9 @@ Key Columns:
 ---
 
 ## 📊 Tools & Libraries
-- **Python:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Python:** Pandas, NumPy, Matplotlib,plotly ,Scikit-learn  
 - **Jupyter Notebook** for modeling  
 - **Streamlit** for app deployment  
-- **Power BI & Excel** for visualization  
 
 ---
 
